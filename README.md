@@ -6,5 +6,5 @@
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [live Site URL]()
+- Solution URL: [Solution URL](https://github.com/savvykhai/nft-preview-card-component.git)
+- Live Site URL: [live Site URL](https://nft-preview-card-component-7m6t6npw7-savvykhai.vercel.app)
