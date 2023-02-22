@@ -46,6 +46,7 @@ img {
 /* || GENERAL CLASSES */
 
 body {
+    min-height: 120vh;
     background-color: var(--MAIN-BGCOLOR);
     font-family: var(--FF);
     font-size: var(--FS);
@@ -58,7 +59,7 @@ body {
 /* || MAIN */
 .main {
     background-color: var(--CARD-BGCOLOR);
-    margin: 20px auto;
+    margin: 50px auto;
     width: 300px;
     height: 100%;
     box-shadow: 20px 10px 10px var(--MAIN-BGCOLOR);
@@ -204,6 +205,8 @@ body {
     color: whitesmoke;
     text-align: center;
     padding: 10px;
-    position: sticky;
+    position: fixed;
     bottom: 0;
+    font-size: 11px;
+    width: 100%;
 }
